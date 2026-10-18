@@ -1,5 +1,6 @@
 echo "Hello devops week1"
 echo "Hello devops week2"
-echo Hello DEVOPS
-echo Nice to be here
+
+echo HELLO DEVOPS
+echo Nice to be here - version 3
 
